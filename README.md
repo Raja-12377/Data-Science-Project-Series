@@ -41,4 +41,47 @@ The model achieves an accuracy of 98.51%.
 Conclusion:
 
 The Linear Regression model demonstrates high accuracy in predicting stock prices based on the historical data. The project successfully showcases the application of machine learning in stock market prediction.
+
 This documentation provides a clear overview of the project's approach, methodologies, and insights gained from analyzing the stock market dataset and building a predictive model for stock price forecasting.
+
+--------------------------------------------------
+
+Project 2 - Documentation: **Breast Cancer Prediction**
+
+Introduction:
+
+This project focuses on predicting breast cancer diagnosis using the Breast Cancer Wisconsin (Diagnostic) dataset. The goal is to preprocess the data, select relevant features, and implement a Support Vector Machine (SVM) model for classifying tumors as malignant or benign.
+
+Data Preprocessing:
+
+The dataset is loaded and checked for missing values.
+Categorical values in the 'diagnosis' column are encoded using LabelEncoder to convert them to numerical values.
+Correlation analysis and visualization are performed to understand the relationships between features.
+
+Feature Selection and Engineering:
+
+Relevant features are selected for breast cancer prediction.
+StandardScaler is used to scale the feature data for better model performance.
+
+Machine Learning Model (SVM):
+
+A Support Vector Machine (SVM) model with a linear kernel is implemented for tumor classification.
+The model is trained and evaluated on the Breast Cancer dataset.
+
+Challenges Faced:
+
+Error: Could not convert string to float: 'M'
+Solution: Categorical values are encoded using LabelEncoder to resolve the error.
+Error: Unknown label type: 'unknown'
+Solution: LabelEncoder is used to transform the target labels to numerical values.
+
+Model Evaluation:
+
+The SVM model achieves an accuracy of 96.49% in predicting breast cancer diagnosis.
+The classification report shows high precision, recall, and F1-score for both malignant and benign tumor predictions.
+
+Conclusion:
+
+The SVM model demonstrates strong performance in classifying breast tumors as malignant or benign based on the dataset features. The project successfully showcases the application of machine learning in breast cancer prediction with high accuracy.
+
+This documentation provides a clear overview of the project's approach, methodologies, challenges faced, model implementation, and performance evaluation in predicting breast cancer diagnosis using machine learning techniques.
