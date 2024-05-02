@@ -75,9 +75,9 @@ The model is trained and evaluated on the Breast Cancer dataset.
 
 Challenges Faced:
 
-Error: Could not convert string to float: 'M'
+Error1: Could not convert string to float: 'M'
 Solution: Categorical values are encoded using LabelEncoder to resolve the error.
-Error: Unknown label type: 'unknown'
+Error2: Unknown label type: 'unknown'
 Solution: LabelEncoder is used to transform the target labels to numerical values.
 
 Model Evaluation:
