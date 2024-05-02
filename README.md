@@ -16,6 +16,9 @@ Correlation between variables is visualized using a heatmap and pair plots.
 
 Box plots are used to analyze the distribution of stock prices.
 
+![SP line](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/02b22c67-8d5b-41de-ae8d-fdb5b63e18ff)
+
+
 Data Preparation:
 
 The dataset is split into independent variables (x) and dependent variable (y).
@@ -32,6 +35,8 @@ Model Evaluation:
 
 The Mean Absolute Error is 0.315, Mean Squared Error is 1.201, and Root Mean Squared Error is approximately 0.561.
 The model achieves an accuracy of 98.51%.
+
+![SP pred](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/1b73c5c8-f64c-40a1-9558-29d1f456b048)
 
 Conclusion:
 
