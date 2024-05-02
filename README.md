@@ -58,7 +58,7 @@ The dataset is loaded and checked for missing values.
 Categorical values in the 'diagnosis' column are encoded using LabelEncoder to convert them to numerical values.
 Correlation analysis and visualization are performed to understand the relationships between features.
 
-[Bp_corr](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/f28729c4-9958-495a-9d9d-df4001d068f7)
+![Bp_corr](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/f28729c4-9958-495a-9d9d-df4001d068f7)
 
 ![Bp_pair1](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/020fd0a5-fcca-49b8-919e-9ddeab2dee6d)
 ![bp_pair2](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/55dbb83e-f597-46a0-a430-b15b9e81c45a)
