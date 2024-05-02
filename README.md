@@ -58,6 +58,12 @@ The dataset is loaded and checked for missing values.
 Categorical values in the 'diagnosis' column are encoded using LabelEncoder to convert them to numerical values.
 Correlation analysis and visualization are performed to understand the relationships between features.
 
+![Bp_corr](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/16e127a6-0ef0-401b-ae54-3ddc69b0f3ac)
+
+![Bp_pair1](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/020fd0a5-fcca-49b8-919e-9ddeab2dee6d)
+![bp_pair2](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/55dbb83e-f597-46a0-a430-b15b9e81c45a)
+
+
 Feature Selection and Engineering:
 
 Relevant features are selected for breast cancer prediction.
@@ -79,6 +85,8 @@ Model Evaluation:
 
 The SVM model achieves an accuracy of 96.49% in predicting breast cancer diagnosis.
 The classification report shows high precision, recall, and F1-score for both malignant and benign tumor predictions.
+
+![bp_ac](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/defee1e3-db2e-4e42-bde6-2fb297c721f4)
 
 Conclusion:
 
