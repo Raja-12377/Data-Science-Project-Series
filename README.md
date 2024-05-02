@@ -12,6 +12,7 @@ Exploratory Data Analysis (EDA) :
 The dataset is loaded and essential columns ('date', 'close', 'high', 'low', 'open', 'volume') are extracted.
 Duplicates and null values are checked, and descriptive statistics are calculated.
 Correlation between variables is visualized using a heatmap and pair plots.
+![SP corr](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/293be024-a649-42af-9676-6849cfe3bc86)
 
 Box plots are used to analyze the distribution of stock prices.
 
