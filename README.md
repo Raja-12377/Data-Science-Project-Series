@@ -3,7 +3,7 @@ Nexus info data science Intern projects
 
 Project 1 - Documentation : **Stock Market Prediction**
 
-Introduction
+Introduction:
 
 This project focuses on predicting stock prices using machine learning techniques. The dataset contains historical stock data with features like open, high, low, close, and volume. The goal is to build a regression model to forecast future stock values.
 
@@ -11,10 +11,10 @@ Exploratory Data Analysis (EDA) :
 
 The dataset is loaded and essential columns ('date', 'close', 'high', 'low', 'open', 'volume') are extracted.
 Duplicates and null values are checked, and descriptive statistics are calculated.
-Correlation between variables is visualized using a heatmap and pair plots.
+Correlation between variables is visualized using a heatmap and pair plots.Box plots and line plots also are used to analyze the distribution of stock prices.
+
 ![SP corr](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/293be024-a649-42af-9676-6849cfe3bc86)
 
-Box plots are used to analyze the distribution of stock prices.
 
 ![SP line](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/02b22c67-8d5b-41de-ae8d-fdb5b63e18ff)
 
