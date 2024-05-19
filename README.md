@@ -117,6 +117,10 @@ Exploratory Data Analysis (EDA)
 Analyzed the distribution of sentiment labels in the dataset.
 Visualized the sentiment label distribution using count plot and pie chart.
 
+![sentiment](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/681d5672-12cc-4dae-a30d-a52a22916128)
+
+
+
 Text Vectorization (TF-IDF)
     
 Utilized TF-IDF Vectorizer to convert preprocessed text into numerical vectors.
