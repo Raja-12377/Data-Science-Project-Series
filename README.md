@@ -119,6 +119,7 @@ Visualized the sentiment label distribution using count plot and pie chart.
 
 ![sentiment](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/681d5672-12cc-4dae-a30d-a52a22916128)
 
+![sentiment 2](https://github.com/Raja-12377/Data-Science-Project-Series/assets/93259031/7d9d8eea-4e9d-4a0d-9233-698f24bafc78)
 
 
 Text Vectorization (TF-IDF)
