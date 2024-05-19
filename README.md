@@ -93,6 +93,88 @@ The SVM model demonstrates strong performance in classifying breast tumors as ma
 
 This documentation provides a clear overview of the project's approach, methodologies, challenges faced, model implementation, and performance evaluation in predicting breast cancer diagnosis using machine learning techniques.
 
-------------------------------------------------------
 
+--------------------------------------------------
+
+Project 3 - Documentation: **Sentiment Analysis **
+
+Data Loading and Exploration
+Successfully read the dataset using different encodings.
+Displayed basic information about the dataset structure and features.
+
+Key Variables Identification
+   
+Identified key variables such as text content and sentiment labels.
+Displayed the first few rows of the dataset to understand its structure.
+
+Text Preprocessing
+   
+Implemented text preprocessing tasks including lowercasing, special character removal, tokenization, stop words removal, and lemmatization.
+Created a function to preprocess text data and applied it to the 'text' column.
+
+Exploratory Data Analysis (EDA)
+   
+Analyzed the distribution of sentiment labels in the dataset.
+Visualized the sentiment label distribution using count plot and pie chart.
+
+Text Vectorization (TF-IDF)
+    
+Utilized TF-IDF Vectorizer to convert preprocessed text into numerical vectors.
+Displayed the first few rows of the TF-IDF DataFrame for visualization.Text Vectorization (TF-IDF)
+    
+Utilized TF-IDF Vectorizer to convert preprocessed text into numerical vectors.
+Displayed the first few rows of the TF-IDF DataFrame for visualization.
+
+Text Vectorization (TF-IDF)
+    
+Utilized TF-IDF Vectorizer to convert preprocessed text into numerical vectors.
+Displayed the first few rows of the TF-IDF DataFrame for visualization.
+
+These points cover the data loading, preprocessing, exploratory analysis, and text vectorization stages of the Sentiment Analysis project.
+
+Model Training and Evaluation:
+
+Model Used: Support Vector Machine (SVM) with a linear kernel.
+Accuracy: 70.17%
+Precision: 71.16%
+Recall: 70.17%
+F1 Score: 70.11%
+
+Classification Report:
+
+Precision, recall, F1-score, and support for each class.
+
+Cross-Validation Scores:
+
+Mean Cross-Validation Score: 69.36%
+Cross-Validation Scores: [68.98%, 69.39%, 70.34%, 68.82%, 69.29%]
+
+Feature Importance:
+
+Top 10 Features for Each Class:
+Negative: ['aaaah']
+Neutral: ['aaaah']
+Positive: ['aaaah']
+
+Confusion Matrix:
+
+[[ 928  543   91]
+ [ 248 1719  263]
+ [  63  432 1210]]
+
+Precision and Recall for Each Class:
+
+Class 'Negative': Precision = 74.90%, Recall = 59.41%
+Class 'Neutral': Precision = 63.81%, Recall = 77.09%
+Class 'Positive': Precision = 77.37%, Recall = 70.97%
+
+Future Deployment:
+
+Future Deployment: Plan to deploy the project on a website and host it.
+GitHub Update: Will update the deployment on GitHub for further access and development.
+
+Conclusion:
+
+Summarize the project outcomes, model performance, and potential future enhancements.
+Highlight the significance of the sentiment analysis project and its potential real-world applications.
 
